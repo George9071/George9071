@@ -77,5 +77,7 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=george9071&show_icons=true&locale=en&layout=compact" alt="george9071" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=george9071&show_icons=true&locale=en" alt="george9071" /></p>
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=george9071&show_icons=true&layout=compact" alt="george9071" />
+</p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=george9071&show_icons=true" alt="george9071" /></p>
